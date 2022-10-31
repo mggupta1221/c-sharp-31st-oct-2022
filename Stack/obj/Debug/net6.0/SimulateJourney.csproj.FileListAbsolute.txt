@@ -1,0 +1,15 @@
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\SimulateJourney.csproj.AssemblyReference.cache
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\SimulateJourney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\SimulateJourney.AssemblyInfoInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\SimulateJourney.AssemblyInfo.cs
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\SimulateJourney.csproj.CoreCompileInputs.cache
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\bin\Debug\net6.0\SimulateJourney.exe
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\bin\Debug\net6.0\SimulateJourney.deps.json
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\bin\Debug\net6.0\SimulateJourney.runtimeconfig.json
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\bin\Debug\net6.0\SimulateJourney.dll
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\bin\Debug\net6.0\SimulateJourney.pdb
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\SimulateJourney.dll
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\refint\SimulateJourney.dll
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\SimulateJourney.pdb
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\SimulateJourney.genruntimeconfig.cache
+C:\Users\gupt_muk\source\repos\Bands\SimulateJourney\obj\Debug\net6.0\ref\SimulateJourney.dll
